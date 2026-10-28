@@ -17,7 +17,7 @@ java {
 dependencies {
     api("com.github.topi314.lavasearch:lavasearch:1.0.0")
     // TEST ONLY: LavaLyrics with the per-source error fix (Vexify4103/LavaLyrics fix/source-errors)
-    api("com.github.Vexify4103.LavaLyrics:lavalyrics:99bcbf8")
+    api("com.github.Vexify4103.LavaLyrics:lavalyrics:912cf96")
     compileOnly("dev.arbjerg:lavaplayer:2.0.4")
     compileOnly("com.github.lavalink-devs.youtube-source:common:1.0.5")
     implementation("org.jsoup:jsoup:1.15.3")
